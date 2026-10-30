@@ -6,7 +6,7 @@ function dailyLog217() {
       title: "My Website",
       description: "Welcome to my website",
       hasH1: true,
-      hasImageAlt: tru,
+      hasImageAlt: true,
     },
     {
       url: "/about",
